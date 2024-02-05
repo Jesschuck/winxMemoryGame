@@ -1,6 +1,6 @@
 # WINX - Memory Game
 
-Jogo da memória das Winx, versão 1.
+Jogo da memória das Winx, versão 1.0
 
 ## Resumo do projeto
 
@@ -66,3 +66,33 @@ O projeto visa oferecer uma experiência de jogo divertida e desafiadora, incent
 ## Etiquetas
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## Próximas Funcionalidades (Futuras Atualizações)
+
+**1. Níveis de Dificuldade:**
+
+Introduza diferentes níveis de dificuldade, ajustando o número de cartas ou o tempo disponível para memorização.
+
+**2. Efeitos Sonoros Interativos:**
+
+Efeitos sonoros interativos para cada ação no jogo, como virar uma carta, encontrar um par correspondente ou concluir com sucesso uma partida.
+
+**3. Temporizador de Jogo:**
+
+Introduzir um temporizador para tornar o jogo mais desafiador, onde os jogadores têm um limite de tempo para concluir cada partida.
+
+**4. Animar a Conclusão:**
+
+Ao concluir uma partida, animar a tela para proporcionar uma experiência mais gratificante.
+
+**5. Sistema de Conquistas:**
+
+Implementar um sistema de conquistas para recompensar os jogadores por realizar certas tarefas ou alcançar marcos específicos.
+
+**6. Sistema de Pistas ou Power-ups:**
+
+Introduzir alguma carta especial, que concede ao jogador pistas ou power-ups úteis durante o jogo.
+
+**7. Sistema de Ajuda:**
+
+Adicionar dicas ou ajuda para que os jogadores possam usar durante o jogo para revelar temporariamente algumas cartas.
