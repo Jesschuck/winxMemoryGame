@@ -83,11 +83,14 @@ function checkMatch() {
 
   openCards = []
 
+  /*Criará um modal com o GIF de vitória. 
+  Quando todas as cartas forem combinadas, o modal será exibido.*/
   if (document.querySelectorAll('.boxMatch').length === winx.length) {
     openModal()
   }
 }
 
+// Funções para abrir e fechar o Modal.
 function openModal() {
   document.getElementById('victoryModal').style.display = 'block'
 }
