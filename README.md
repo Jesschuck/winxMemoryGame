@@ -2,6 +2,8 @@
 
 Jogo da memória das Winx, versão 1.0
 
+Você pode jogar aqui: https://jesschuck.github.io/winxMemoryGame/
+
 ## Resumo do projeto
 
 O projeto consiste em um jogo da memória interativo baseado nas personagens Winx, onde o jogador é desafiado a encontrar pares correspondentes de cartas viradas para baixo. As cartas são exibidas aleatoriamente e o jogador deve clicar em duas cartas por vez para revelar suas imagens. Se as imagens forem correspondentes, as cartas permanecem viradas para cima; caso contrário, elas são viradas de volta após um breve intervalo. O objetivo é encontrar todos os pares correspondentes, virando todas as cartas no jogo.
